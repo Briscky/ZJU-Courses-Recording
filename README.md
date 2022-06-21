@@ -1,3 +1,5 @@
 # ZJU-Courses-Recording
-Here is an accumulation of some information about the ZJU courses I've taken.  
-Update and supplement are always welcome.
+21级一名普通计科学生的ZJU课程录  
+深感于学习生活中的各种信息差，于是将自己一些学科的资料习题汇总在这里  
+也算是cs漫漫征途的一点见证吧  
+欢迎补充，欢迎交流~
