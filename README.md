@@ -15,3 +15,5 @@
 + [微观经济学](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6)
 + [数字逻辑设计](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1)
 + [概率论与数理统计](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1)
+## 大二春夏
++ [数据库系统原理](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93)
