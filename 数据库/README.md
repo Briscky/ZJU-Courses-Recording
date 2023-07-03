@@ -2,4 +2,5 @@
 cl 老师班，人美心善的老师和可爱的 tajj！   
 不点名，小测会提前通知。讲课的话我觉得有点催眠（），不清楚的地方可以去看对应 sjl 老师的智云   
 期末知识点比较庞杂，平时还是尽量更上，~~否则就要像我一样面向历年卷补天~~   
-sjl 班 ppt：https://pan.zju.edu.cn/share/9bc7973176e12e5de050ae6ea2 
+sjl 班 ppt：https://pan.zju.edu.cn/share/9bc7973176e12e5de050ae6ea2   
+作业答案（部分）可见语雀开头链接：https://www.yuque.com/dongruojun/etxzx5/cgg8esyy9yek9mg7
