@@ -28,3 +28,4 @@
 + [计算机网络](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 + [计算机体系结构](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84)
 + [计算理论](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA)
++ [Java 应用技术](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/Java%20%E5%BA%94%E7%94%A8%E6%8A%80%E6%9C%AF)
