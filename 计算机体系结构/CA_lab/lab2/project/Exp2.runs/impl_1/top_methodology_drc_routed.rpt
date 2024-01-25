@@ -1,0 +1,221 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Wed Oct 25 16:02:47 2023
+| Host         : LAPTOP-LVEKBF8R running 64-bit major release  (build 9200)
+| Command      : report_methodology -file top_methodology_drc_routed.rpt -pb top_methodology_drc_routed.pb -rpx top_methodology_drc_routed.rpx
+| Design       : top
+| Device       : xc7k325tlffg676-2L
+| Speed File   : -2L
+| Design State : Fully Routed
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 37
++-----------+------------------+-----------------------+------------+
+| Rule      | Severity         | Description           | Violations |
++-----------+------------------+-----------------------+------------+
+| TIMING-14 | Critical Warning | LUT on the clock tree | 1          |
+| TIMING-16 | Warning          | Large setup violation | 36         |
++-----------+------------------+-----------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+TIMING-14#1 Critical Warning
+LUT on the clock tree  
+The LUT BTN_SCAN/data[126][7]_i_11 has been found on the clock tree. Run opt_design to optimize the clock trees, then re-run report_methodology. If LUT(s) are still present in the clock trees, modify the RTL or the synthesis options accordingly to move the clock gating logic to dedicated clock enable resources. Keep in mind that post-opt_design database cannot be used for pin-planning tasks
+Related violations: <none>
+
+TIMING-16#1 Warning
+Large setup violation  
+There is a large setup violation of -1.056 ns between vga/U12/h_count_reg[2]/C (clocked by clkout2) and vga/ascii_code_reg[1]/D (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#2 Warning
+Large setup violation  
+There is a large setup violation of -1.129 ns between vga/U12/h_count_reg[2]/C (clocked by clkout2) and vga/ascii_code_reg[3]/D (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#3 Warning
+Large setup violation  
+There is a large setup violation of -1.237 ns between vga/U12/h_count_reg[2]/C (clocked by clkout2) and vga/ascii_code_reg[4]/D (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#4 Warning
+Large setup violation  
+There is a large setup violation of -1.325 ns between vga/U12/h_count_reg[2]/C (clocked by clkout2) and vga/ascii_code_reg[2]/D (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#5 Warning
+Large setup violation  
+There is a large setup violation of -4.631 ns between core/data_ram/data_reg[122][1]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#6 Warning
+Large setup violation  
+There is a large setup violation of -4.663 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMC_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#7 Warning
+Large setup violation  
+There is a large setup violation of -4.672 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMB/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#8 Warning
+Large setup violation  
+There is a large setup violation of -4.690 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#9 Warning
+Large setup violation  
+There is a large setup violation of -4.804 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMC/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#10 Warning
+Large setup violation  
+There is a large setup violation of -4.828 ns between core/data_ram/data_reg[122][1]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMB/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#11 Warning
+Large setup violation  
+There is a large setup violation of -4.835 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMC_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#12 Warning
+Large setup violation  
+There is a large setup violation of -4.852 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMB_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#13 Warning
+Large setup violation  
+There is a large setup violation of -4.853 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMB/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#14 Warning
+Large setup violation  
+There is a large setup violation of -4.889 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#15 Warning
+Large setup violation  
+There is a large setup violation of -4.896 ns between core/data_ram/data_reg[122][1]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMC_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#16 Warning
+Large setup violation  
+There is a large setup violation of -4.908 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMC/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#17 Warning
+Large setup violation  
+There is a large setup violation of -4.913 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMC/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#18 Warning
+Large setup violation  
+There is a large setup violation of -4.929 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMB_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#19 Warning
+Large setup violation  
+There is a large setup violation of -4.941 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMB_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#20 Warning
+Large setup violation  
+There is a large setup violation of -4.944 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMC_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#21 Warning
+Large setup violation  
+There is a large setup violation of -4.952 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#22 Warning
+Large setup violation  
+There is a large setup violation of -4.960 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_30_31/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#23 Warning
+Large setup violation  
+There is a large setup violation of -4.983 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMB_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#24 Warning
+Large setup violation  
+There is a large setup violation of -4.987 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_30_31/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#25 Warning
+Large setup violation  
+There is a large setup violation of -5.061 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#26 Warning
+Large setup violation  
+There is a large setup violation of -5.062 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#27 Warning
+Large setup violation  
+There is a large setup violation of -5.067 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMB_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#28 Warning
+Large setup violation  
+There is a large setup violation of -5.073 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#29 Warning
+Large setup violation  
+There is a large setup violation of -5.083 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#30 Warning
+Large setup violation  
+There is a large setup violation of -5.084 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_6_11/RAMC/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#31 Warning
+Large setup violation  
+There is a large setup violation of -5.086 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_18_23/RAMB/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#32 Warning
+Large setup violation  
+There is a large setup violation of -5.092 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMC/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#33 Warning
+Large setup violation  
+There is a large setup violation of -5.165 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_0_5/RAMB/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#34 Warning
+Large setup violation  
+There is a large setup violation of -5.170 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMC_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#35 Warning
+Large setup violation  
+There is a large setup violation of -5.209 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_12_17/RAMA_D1/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+TIMING-16#36 Warning
+Large setup violation  
+There is a large setup violation of -5.330 ns between core/reg_ID_EX/A_EX_reg[26]/C (clocked by clkout3) and vga/data_buf_reg_0_3_24_29/RAMA/I (clocked by clkout0). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+Related violations: <none>
+
+

@@ -1,0 +1,45 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Sep 20 20:46:34 2022
+# Process ID: 16516
+# Current directory: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/Exp1.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/Exp1.runs/synth_1/top.vds
+# Journal file: C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/Exp1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
+Command: synth_design -top top -part xc7k70tfbv676-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7k70t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7k70t'
+INFO: [Device 21-403] Loading part xc7k70tfbv676-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 13656
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:58]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:59]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:60]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:61]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:62]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:63]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:65]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:66]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:67]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:68]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:69]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:71]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:72]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:73]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:75]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:76]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:78]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:79]
+ERROR: [Synth 8-2715] syntax error near ; [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:88]
+Failed to read verilog 'C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v'
+INFO: [Common 17-83] Releasing license: Synthesis
+6 Infos, 0 Warnings, 0 Critical Warnings and 20 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 20 20:46:44 2022...

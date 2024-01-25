@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 25 15:27:34 2023
+# Process ID: 19072
+# Current directory: D:/Briscky03/CA_lab/lab02/Exp2.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: D:/Briscky03/CA_lab/lab02/Exp2.runs/impl_1/top.vdi
+# Journal file: D:/Briscky03/CA_lab/lab02/Exp2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

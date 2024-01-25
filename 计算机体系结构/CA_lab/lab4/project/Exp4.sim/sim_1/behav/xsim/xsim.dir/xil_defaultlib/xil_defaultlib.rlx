@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Briscky03/CA_lab/lab04/Exp4.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/addr_define.vh,1630841752,verilog,,,,,,,,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/cache.v,1699355246,verilog,,D:/Briscky03/CA_lab/lab04/code/cache/cmu.v,D:/Briscky03/CA_lab/lab04/code/cache/addr_define.vh,cache,,,../../../../code/auxillary;../../../../code/cache,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/cmu.v,1699356744,verilog,,D:/Briscky03/CA_lab/lab04/code/cache/sim/cmu_sim.v,D:/Briscky03/CA_lab/lab04/code/cache/addr_define.vh,cmu,,,../../../../code/auxillary;../../../../code/cache,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/sim/cmu_sim.v,1630842840,verilog,,D:/Briscky03/CA_lab/lab04/code/cache/sim/data_ram.v,,cmu_sim,,,../../../../code/auxillary;../../../../code/cache,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/sim/data_ram.v,1630308262,verilog,,D:/Briscky03/CA_lab/lab04/code/cache/sim/inst.v,,data_ram,,,../../../../code/auxillary;../../../../code/cache,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/sim/inst.v,1628581609,verilog,,D:/Briscky03/CA_lab/lab04/code/cache/sim/sim_top.v,,inst,,,../../../../code/auxillary;../../../../code/cache,,,,,
+D:/Briscky03/CA_lab/lab04/code/cache/sim/sim_top.v,1630842833,verilog,,,,sim_top,,,../../../../code/auxillary;../../../../code/cache,,,,,

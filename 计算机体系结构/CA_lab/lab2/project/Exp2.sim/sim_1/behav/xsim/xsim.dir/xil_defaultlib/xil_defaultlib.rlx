@@ -1,0 +1,27 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Briscky03/CA_lab/lab02/Exp2.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Briscky03/CA_lab/lab02/code/auxillary/CPUTEST.v,1628647838,verilog,,D:/Briscky03/CA_lab/lab02/code/core/CSRRegs.v,,CPUTEST,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/auxillary/debug_clk.v,1628262876,verilog,,D:/Briscky03/CA_lab/lab02/code/sim/core_sim.v,,debug_clk,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/common/MUX2T1_32.v,1630067822,verilog,,D:/Briscky03/CA_lab/lab02/code/common/MUX4T1_32.v,,MUX2T1_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/common/MUX4T1_32.v,1628301716,verilog,,D:/Briscky03/CA_lab/lab02/code/core/RAM_B.v,,MUX4T1_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/common/REG32.v,1630067817,verilog,,D:/Briscky03/CA_lab/lab02/code/core/REG_EX_MEM.v,,REG32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/common/add_32.v,1630067809,verilog,,D:/Briscky03/CA_lab/lab02/code/common/cmp_32.v,,add_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/common/cmp_32.v,1628609816,verilog,,D:/Briscky03/CA_lab/lab02/code/auxillary/debug_clk.v,,cmp_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/ALU.v,1628609787,verilog,,D:/Briscky03/CA_lab/lab02/code/auxillary/CPUTEST.v,,ALU,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/CSRRegs.v,1629997667,verilog,,D:/Briscky03/CA_lab/lab02/code/core/CtrlUnit.v,,CSRRegs,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/CtrlUnit.v,1630068052,verilog,,D:/Briscky03/CA_lab/lab02/code/core/ExceptionUnit.v,,CtrlUnit,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/ExceptionUnit.v,1698218214,verilog,,D:/Briscky03/CA_lab/lab02/code/core/HazardDetectionUnit.v,,ExceptionUnit,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/HazardDetectionUnit.v,1628627081,verilog,,D:/Briscky03/CA_lab/lab02/code/core/ImmGen.v,,HazardDetectionUnit,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/ImmGen.v,1630067830,verilog,,D:/Briscky03/CA_lab/lab02/code/common/MUX2T1_32.v,,ImmGen,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/RAM_B.v,1630068712,verilog,,D:/Briscky03/CA_lab/lab02/code/common/REG32.v,,RAM_B,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/REG_EX_MEM.v,1630068243,verilog,,D:/Briscky03/CA_lab/lab02/code/core/REG_ID_EX.v,,REG_EX_MEM,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/REG_ID_EX.v,1630068234,verilog,,D:/Briscky03/CA_lab/lab02/code/core/REG_IF_ID.v,,REG_ID_EX,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/REG_IF_ID.v,1629997584,verilog,,D:/Briscky03/CA_lab/lab02/code/core/REG_MEM_WB.v,,REG_IF_ID,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/REG_MEM_WB.v,1630068255,verilog,,D:/Briscky03/CA_lab/lab02/code/core/ROM_D.v,,REG_MEM_WB,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/ROM_D.v,1629983721,verilog,,D:/Briscky03/CA_lab/lab02/code/core/RV32core.v,,ROM_D,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/RV32core.v,1630853177,verilog,,D:/Briscky03/CA_lab/lab02/code/core/Regs.v,,RV32core,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/core/Regs.v,1629993973,verilog,,D:/Briscky03/CA_lab/lab02/code/common/add_32.v,,Regs,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab02/code/sim/core_sim.v,1629997904,verilog,,,,core_sim,,,../../../../code/auxillary,,,,,

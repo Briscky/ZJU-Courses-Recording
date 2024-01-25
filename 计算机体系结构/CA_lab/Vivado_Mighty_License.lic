@@ -1,0 +1,1206 @@
+
+INCREMENT VIVADO_HLS xilinxd 2037.05 permanent uncounted AF3E86892AA2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY ISSUER="Xilinx \
+	Inc" START=19-May-2016 TS_OK
+INCREMENT Vivado_System_Edition xilinxd 2037.05 permanent uncounted \
+	A1074C37F742 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER="Xilinx Inc" START=19-May-2016 TS_OK
+PACKAGE Vivado_System_Edition xilinxd 2037.05 DFF4A65E0A68 \
+	COMPONENTS="ISIM ChipScopePro_SIOTK PlanAhead ChipscopePro XPS \
+	ISE HLS_Synthesis AccelDSP Vivado Rodin_Synthesis \
+	Rodin_Implementation Rodin_SystemBuilder \
+	PartialReconfiguration AUTOESL_FLOW AUTOESL_CC AUTOESL_OPT \
+	AUTOESL_SC AUTOESL_XILINX petalinux_arch_ppc \
+	petalinux_arch_microblaze petalinux_arch_zynq ap_sdsoc SDK \
+	SysGen Simulation Implementation Analyzer HLS Synthesis \
+	VIVADO_HLS" OPTIONS=SUITE
+
+FEATURE 10_100_mb_eth_mac xilinxd 1.0 permanent uncounted \
+	0129A8A6DD73 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE apu_fpu_v2 xilinxd 1.0 permanent uncounted 28062DCAB450 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE apu_fpu_virtex5_v1 xilinxd 1.0 permanent uncounted \
+	6F2AC16DF95A VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE aurora_64b66b_v1 xilinxd 1.0 permanent uncounted 8E7A298835F3 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE aurora_64b66b_v2 xilinxd 1.0 permanent uncounted 17A48F5CE87D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE aurora_8b10b_v4 xilinxd 1.0 permanent uncounted EABB0C7B9815 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE aurora_v2 xilinxd 1.0 permanent uncounted 0A18D397922A \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE aurora_v3 xilinxd 1.0 permanent uncounted EFBACCE4766D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE dlcr_3gpp_v1 xilinxd 1.0 permanent uncounted 5F7F25A53ED8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE dvb_s2_fec_encoder_v1 xilinxd 1.0 permanent uncounted \
+	4326E5A1C7EF VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE eth_avb_endpoint_v1 xilinxd 1.0 permanent uncounted \
+	0F5A96AA6A48 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ethernet_statistics_v1 xilinxd 1.0 permanent uncounted \
+	526694A1BD5C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ethernet_statistics_v2 xilinxd 1.0 permanent uncounted \
+	C77C3C9CF480 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ethernet_statistics_v3 xilinxd 1.0 permanent uncounted \
+	32E24CC38F3C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v10 xilinxd 1.0 permanent uncounted \
+	C9A10A5735D8 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v3_0 xilinxd 1.0 permanent uncounted \
+	481AD9647EF1 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v4_0 xilinxd 1.0 permanent uncounted \
+	87ED2972BFE0 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v5_0 xilinxd 1.0 permanent uncounted \
+	D010FD1C2017 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v6 xilinxd 1.0 permanent uncounted \
+	4721ADCC8967 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v7 xilinxd 1.0 permanent uncounted \
+	53D5F79AD88E VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v8 xilinxd 1.0 permanent uncounted \
+	4B88596C5FB5 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE gig_eth_pcs_pma_v9 xilinxd 1.0 permanent uncounted \
+	A6D2BB4A463C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ldpc_802_16_enc_v1 xilinxd 1.0 permanent uncounted \
+	E15F19632366 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE most_nic_v1 xilinxd 1.0 permanent uncounted 64FB7BB288C4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1 xilinxd 1.0 permanent uncounted E10CB93B61EE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1 xilinxd 1.0 permanent uncounted E10CB93B61EE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_j xilinxd 1.0 permanent uncounted \
+	112FFB6864A7 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_j xilinxd 1.0 permanent uncounted \
+	112FFB6864A7 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_k xilinxd 1.0 permanent uncounted \
+	DA652BE609B5 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_k xilinxd 1.0 permanent uncounted \
+	DA652BE609B5 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_l xilinxd 1.0 permanent uncounted \
+	DAB8778826B7 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_l xilinxd 1.0 permanent uncounted \
+	DAB8778826B7 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_m xilinxd 1.0 permanent uncounted \
+	79FBE706BB85 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_00_m xilinxd 1.0 permanent uncounted \
+	79FBE706BB85 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_01_a xilinxd 1.0 permanent uncounted \
+	F9EE1F74A692 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernet_v1_01_a xilinxd 1.0 permanent uncounted \
+	F9EE1F74A692 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernetlite_v1 xilinxd 1.0 permanent uncounted \
+	8A5C7F36EC37 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_ethernetlite_v1_00_a xilinxd 1.0 permanent uncounted \
+	3823CBA260B7 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_iic_v1 xilinxd 1.0 permanent uncounted 5B04B7BAC130 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_iic_v1_01_a xilinxd 1.0 permanent uncounted EAED6260CC23 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_iic_v1_01_b xilinxd 1.0 permanent uncounted 0F51E65DEDF3 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1 xilinxd 1.0 permanent uncounted 3E491CFE8C66 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1 xilinxd 1.0 permanent uncounted 3E491CFE8C66 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1 xilinxd 1.0 permanent uncounted 3E491CFE8C66 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1 xilinxd 1.0 permanent uncounted 3E491CFE8C66 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_a xilinxd 1.0 permanent uncounted A52C8F036B88 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_a xilinxd 1.0 permanent uncounted A52C8F036B88 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_a xilinxd 1.0 permanent uncounted A52C8F036B88 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_a xilinxd 1.0 permanent uncounted A52C8F036B88 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_b xilinxd 1.0 permanent uncounted 139B4B584814 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_b xilinxd 1.0 permanent uncounted 139B4B584814 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_b xilinxd 1.0 permanent uncounted 139B4B584814 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_b xilinxd 1.0 permanent uncounted 139B4B584814 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_c xilinxd 1.0 permanent uncounted 1F72EF592574 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_c xilinxd 1.0 permanent uncounted 1F72EF592574 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_c xilinxd 1.0 permanent uncounted 1F72EF592574 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_pci_v1_00_c xilinxd 1.0 permanent uncounted 1F72EF592574 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_uart16550_v1 xilinxd 1.0 permanent uncounted 9AF7396FEE55 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_uart16550_v1_00_c xilinxd 1.0 permanent uncounted \
+	FA8CC96ABF80 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE opb_usb2_device_v1 xilinxd 1.0 permanent uncounted \
+	8C38B2E9A791 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci_express_v3 xilinxd 1.0 permanent uncounted B62A0B953FF8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_0 xilinxd 1.0 permanent uncounted B579842DC57B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_0 xilinxd 1.0 permanent uncounted B579842DC57B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_0 xilinxd 1.0 permanent uncounted B579842DC57B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_0 xilinxd 1.0 permanent uncounted B579842DC57B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_1 xilinxd 1.0 permanent uncounted 7D6F6F1DF8D7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_1 xilinxd 1.0 permanent uncounted 7D6F6F1DF8D7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_1 xilinxd 1.0 permanent uncounted 7D6F6F1DF8D7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_sp_v3_1 xilinxd 1.0 permanent uncounted 7D6F6F1DF8D7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_v4 xilinxd 1.0 permanent uncounted 0BFEFE98DDB4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_v4 xilinxd 1.0 permanent uncounted 0BFEFE98DDB4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_v4 xilinxd 1.0 permanent uncounted 0BFEFE98DDB4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_0 xilinxd 1.0 permanent uncounted A3602D710DE1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_0 xilinxd 1.0 permanent uncounted A3602D710DE1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_0 xilinxd 1.0 permanent uncounted A3602D710DE1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_1 xilinxd 1.0 permanent uncounted D7F94E8D3A51 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_1 xilinxd 1.0 permanent uncounted D7F94E8D3A51 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci32_vx_v3_1 xilinxd 1.0 permanent uncounted D7F94E8D3A51 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_0 xilinxd 1.0 permanent uncounted 4AEE2EF03DB8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_0 xilinxd 1.0 permanent uncounted 4AEE2EF03DB8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_0 xilinxd 1.0 permanent uncounted 4AEE2EF03DB8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_1 xilinxd 1.0 permanent uncounted FF82196C9C74 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_1 xilinxd 1.0 permanent uncounted FF82196C9C74 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_sp_v3_1 xilinxd 1.0 permanent uncounted FF82196C9C74 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_0 xilinxd 1.0 permanent uncounted B4B771F24ED4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_0 xilinxd 1.0 permanent uncounted B4B771F24ED4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_0 xilinxd 1.0 permanent uncounted B4B771F24ED4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_1 xilinxd 1.0 permanent uncounted 2E3D079C3F2D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_1 xilinxd 1.0 permanent uncounted 2E3D079C3F2D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v3_1 xilinxd 1.0 permanent uncounted 2E3D079C3F2D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v4 xilinxd 1.0 permanent uncounted 9FA7D56D007E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v4 xilinxd 1.0 permanent uncounted 9FA7D56D007E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_v4 xilinxd 1.0 permanent uncounted 9FA7D56D007E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_0 xilinxd 1.0 permanent uncounted 8892AB08DD16 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_0 xilinxd 1.0 permanent uncounted 8892AB08DD16 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_0 xilinxd 1.0 permanent uncounted 8892AB08DD16 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_1 xilinxd 1.0 permanent uncounted CC16ECC0A65E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_1 xilinxd 1.0 permanent uncounted CC16ECC0A65E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pci64_vx_v3_1 xilinxd 1.0 permanent uncounted CC16ECC0A65E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcie_blk_plus_v1 xilinxd 1.0 permanent uncounted DCCE8543AB15 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcie_pipe_v1 xilinxd 1.0 permanent uncounted 84A832C13502 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcie_pipe_v1 xilinxd 1.0 permanent uncounted 84A832C13502 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix_v6 xilinxd 1.0 permanent uncounted 69B3359B2D2F \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix_v6 xilinxd 1.0 permanent uncounted 69B3359B2D2F \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix64_v5_0 xilinxd 1.0 permanent uncounted 877B88C339E7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix64_v5_0 xilinxd 1.0 permanent uncounted 877B88C339E7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix64_v5_1 xilinxd 1.0 permanent uncounted 48FE6F172F1B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pcix64_v5_1 xilinxd 1.0 permanent uncounted 48FE6F172F1B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_lite_v3 xilinxd 1.0 permanent uncounted 7BD5723A29C4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_lite_v4 xilinxd 1.0 permanent uncounted 25547D52E7F8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v6 xilinxd 1.0 permanent uncounted 2628B62BC4D7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v7_0 xilinxd 1.0 permanent uncounted 33621C530DEA \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v7_1 xilinxd 1.0 permanent uncounted 76A18A63A4AC \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v7_2 xilinxd 1.0 permanent uncounted 81BCB8EB0FDE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v7_3 xilinxd 1.0 permanent uncounted D37A56435E08 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v7_4 xilinxd 1.0 permanent uncounted 4A8F4C6BB1CA \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v8 xilinxd 1.0 permanent uncounted 5E6546291227 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE pl4_v9 xilinxd 1.0 permanent uncounted 50045644C157 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_ethernet_v1 xilinxd 1.0 permanent uncounted 45A870DCF99D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_ethernet_v1 xilinxd 1.0 permanent uncounted 45A870DCF99D \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_ethernet_v1_00_a xilinxd 1.0 permanent uncounted \
+	1FAD2C85C7D8 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_ethernet_v1_00_a xilinxd 1.0 permanent uncounted \
+	1FAD2C85C7D8 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_pci_v1 xilinxd 1.0 permanent uncounted 43968F8132F2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_pci_v1 xilinxd 1.0 permanent uncounted 43968F8132F2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_pci_v1 xilinxd 1.0 permanent uncounted 43968F8132F2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_pci_v1 xilinxd 1.0 permanent uncounted 43968F8132F2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_temac_v1 xilinxd 1.0 permanent uncounted 3C23F7824F96 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_temac_v1 xilinxd 1.0 permanent uncounted 3C23F7824F96 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_uart16550_v1_00_b xilinxd 1.0 permanent uncounted \
+	268793BF54E0 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plb_uart16550_v1_00_c xilinxd 1.0 permanent uncounted \
+	A72BB897E904 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plbv46_pci_v1 xilinxd 1.0 permanent uncounted FADF6B1A66B1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plbv46_pci_v1 xilinxd 1.0 permanent uncounted FADF6B1A66B1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plbv46_pci_v1 xilinxd 1.0 permanent uncounted FADF6B1A66B1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE plbv46_pci_v1 xilinxd 1.0 permanent uncounted FADF6B1A66B1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rach_3gpp_v1 xilinxd 1.0 permanent uncounted 6AB2468697AD \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rio_log_io_v3 xilinxd 1.0 permanent uncounted 6CF5306968B6 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rio_log_io_v4 xilinxd 1.0 permanent uncounted 07EE2B3D476E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rio_log_io_v5 xilinxd 1.0 permanent uncounted 33C802616E3E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_decoder_v4_0 xilinxd 1.0 permanent uncounted 5CD066C23A5E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_decoder_v4_1 xilinxd 1.0 permanent uncounted B981F2DFFF72 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_decoder_v5_0 xilinxd 1.0 permanent uncounted 5B264B90979C \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_decoder_v5_1 xilinxd 1.0 permanent uncounted CD10EB092488 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_decoder_v6 xilinxd 1.0 permanent uncounted 3147B54E6413 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_encoder_v4_0 xilinxd 1.0 permanent uncounted 53A73EECCEEE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_encoder_v4_1 xilinxd 1.0 permanent uncounted 68B516EB453E \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_encoder_v5_0 xilinxd 1.0 permanent uncounted F8F04BFE4F30 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE rs_encoder_v6 xilinxd 1.0 permanent uncounted 596005CCB6A5 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE s6_pcie_v1 xilinxd 1.0 permanent uncounted A83675FC6AF9 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE searcher_3gpp_v1 xilinxd 1.0 permanent uncounted 9A7A16ACEA89 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE sid_v3_0 xilinxd 1.0 permanent uncounted 7B4CEEE7AAD7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE sid_v3_1 xilinxd 1.0 permanent uncounted 26F0188BCBF5 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE sid_v4_0 xilinxd 1.0 permanent uncounted 0D8CB62AC5F7 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE sid_v5 xilinxd 1.0 permanent uncounted 4CE31440F660 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE soft_temac_wrap_v2 xilinxd 1.0 permanent uncounted \
+	5CE42E875F5E VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE soft_temac_wrap_v2 xilinxd 1.0 permanent uncounted \
+	5CE42E875F5E VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE soft_temac_wrap_v2 xilinxd 1.0 permanent uncounted \
+	5CE42E875F5E VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE spi3_link_v4 xilinxd 1.0 permanent uncounted CF6946DD9DD5 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE spi3_link_v5 xilinxd 1.0 permanent uncounted 11E93A739CDF \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE srio_phy_v3 xilinxd 1.0 permanent uncounted 37C9715D2DFD \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE srio_phy_v4 xilinxd 1.0 permanent uncounted E9DD7479FF75 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE srio_phy_v5 xilinxd 1.0 permanent uncounted B890F76999E9 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_dec_802_16e_v3 xilinxd 1.0 permanent uncounted \
+	ABC3532070D8 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_decoder_3gpp_v1 xilinxd 1.0 permanent uncounted \
+	BA765D13269B VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_decoder_3gpp_v2 xilinxd 1.0 permanent uncounted \
+	E35D8AAF3CC3 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_decoder_3gpp_v3 xilinxd 1.0 permanent uncounted \
+	0B5EA757828F VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_decoder_v1_0 xilinxd 1.0 permanent uncounted A7EFCAFECA21 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_decoder_v2 xilinxd 1.0 permanent uncounted 78098EE43D3A \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_enc_802_16e_v1 xilinxd 1.0 permanent uncounted \
+	0BD48E1CF37F VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_enc_802_16e_v2 xilinxd 1.0 permanent uncounted \
+	FFCE440A6844 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_enc_802_16e_v3 xilinxd 1.0 permanent uncounted \
+	F76DB2B4BDF1 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpp_v1 xilinxd 1.0 permanent uncounted \
+	C34406E39B68 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpp_v2 xilinxd 1.0 permanent uncounted \
+	D5D1830F058C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpp_v3 xilinxd 1.0 permanent uncounted \
+	D1F950B7CF2C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpp2_v2 xilinxd 1.0 permanent uncounted \
+	B44324773FB3 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpplte_v1 xilinxd 1.0 permanent uncounted \
+	C4C234EF3BAC VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpplte_v2 xilinxd 1.0 permanent uncounted \
+	8A6C6CFEEE20 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_3gpplte_v3 xilinxd 1.0 permanent uncounted \
+	267AE45D81C4 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_v1_0 xilinxd 1.0 permanent uncounted E0E80D30D3D4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tcc_encoder_v2 xilinxd 1.0 permanent uncounted 08ECD1D478CD \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v3_0 xilinxd 1.0 permanent uncounted \
+	59660F17065A VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v4_0 xilinxd 1.0 permanent uncounted \
+	ABC3BF2D43C9 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v5_0 xilinxd 1.0 permanent uncounted \
+	9C2A13C720B0 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v6 xilinxd 1.0 permanent uncounted \
+	EA969195759E VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v7 xilinxd 1.0 permanent uncounted \
+	4BF2C787886D VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v8 xilinxd 1.0 permanent uncounted \
+	D94FB535F344 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE ten_gig_eth_mac_v9 xilinxd 1.0 permanent uncounted \
+	5C3893879E0B VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v1_1 xilinxd 1.0 permanent uncounted \
+	32169251C889 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v1_1 xilinxd 1.0 permanent uncounted \
+	32169251C889 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v2 xilinxd 1.0 permanent uncounted \
+	CE7DDD4A3BB0 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v2 xilinxd 1.0 permanent uncounted \
+	CE7DDD4A3BB0 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v3 xilinxd 1.0 permanent uncounted \
+	71C7F40A6D48 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v3 xilinxd 1.0 permanent uncounted \
+	71C7F40A6D48 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v4 xilinxd 1.0 permanent uncounted \
+	36852F56E774 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE tri_mode_eth_mac_v4 xilinxd 1.0 permanent uncounted \
+	36852F56E774 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE usb2_device_v1 xilinxd 1.0 permanent uncounted 0885B4DDB620 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_ccm_v1 xilinxd 1.0 permanent uncounted 57E623828306 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_ccm_v1 xilinxd 1.0 permanent uncounted 57E623828306 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_cfa_v1 xilinxd 1.0 permanent uncounted A7B7CCF7C090 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_cfa_v1 xilinxd 1.0 permanent uncounted A7B7CCF7C090 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_gamma_v1 xilinxd 1.0 permanent uncounted 10125A9DF0BE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_gamma_v1 xilinxd 1.0 permanent uncounted 10125A9DF0BE \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_ipipe_v1 xilinxd 1.0 permanent uncounted 94BDBFA1B01C \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_rgb2ycrcb xilinxd 1.0 permanent uncounted F7FD578E479B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 permanent uncounted 6CB9AE758F3A \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 permanent uncounted 6CB9AE758F3A \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_scaler_v1 xilinxd 1.0 permanent uncounted 85075D7C2EF2 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_spc_v1 xilinxd 1.0 permanent uncounted 1607D06DF014 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_spc_v1 xilinxd 1.0 permanent uncounted 1607D06DF014 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_stats xilinxd 1.0 permanent uncounted 3768C7709CF1 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 permanent uncounted FDC170A851E0 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 permanent uncounted FDC170A851E0 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v4_emac_v4 xilinxd 1.0 permanent uncounted BFCA2F4A9E14 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v5_emac_v1 xilinxd 1.0 permanent uncounted D1775079B8E8 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v6_emac_v1 xilinxd 1.0 permanent uncounted 58306FA239C3 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE v6_pcie_v1 xilinxd 1.0 permanent uncounted 44005CCD96D5 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE viterbi_v3_0 xilinxd 1.0 permanent uncounted 2281F49F30DA \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE viterbi_v4_0 xilinxd 1.0 permanent uncounted 6AFC80E5B511 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE viterbi_v5 xilinxd 1.0 permanent uncounted 2A1C86E97229 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE viterbi_v6 xilinxd 1.0 permanent uncounted A982ACE729D4 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE viterbi_v7 xilinxd 1.0 permanent uncounted 1FA43221BC5B \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v3_0 xilinxd 1.0 permanent uncounted 2FB2C8D44517 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v4_0 xilinxd 1.0 permanent uncounted BCF9D227AAEB \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v5_0 xilinxd 1.0 permanent uncounted 79F3B406E773 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v6 xilinxd 1.0 permanent uncounted 1107FCF0AAFB \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v7 xilinxd 1.0 permanent uncounted 8A7C904755F3 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xaui_v8 xilinxd 1.0 permanent uncounted C8461C0E7C4F \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ethernetlite_v1 xilinxd 1.0 permanent uncounted \
+	7D94210F914C VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_iic_v1 xilinxd 1.0 permanent uncounted D34171E0B5ED \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_iic_v2 xilinxd 1.0 permanent uncounted 0C5BA786BAEA \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v1 xilinxd 1.0 permanent uncounted 51F90C96F451 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v1 xilinxd 1.0 permanent uncounted 51F90C96F451 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v1 xilinxd 1.0 permanent uncounted 51F90C96F451 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v2 xilinxd 1.0 permanent uncounted 09B9C84F41F9 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v2 xilinxd 1.0 permanent uncounted 09B9C84F41F9 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_ll_temac_v2 xilinxd 1.0 permanent uncounted 09B9C84F41F9 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_most_nic_v1 xilinxd 1.0 permanent uncounted E55D86C95681 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_uart16550_v1 xilinxd 1.0 permanent uncounted EE0A83148704 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_usb_host_v1 xilinxd 1.0 permanent uncounted 98DE8544EA48 \
+	VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_usb2_device_v1 xilinxd 1.0 permanent uncounted \
+	54DBDE4CE254 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+FEATURE xps_usb2_device_v2 xilinxd 1.0 permanent uncounted \
+	93C354AE797B VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT 10_100_mb_eth_mac xilinxd 2050.01 permanent uncounted \
+	C8137B7FAFC2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,10_100_mb_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT 10_100_mb_eth_mac xilinxd 2050.01 permanent uncounted \
+	C8137B7FAFC2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,10_100_mb_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT 10_100_mb_eth_mac xilinxd 2050.01 permanent uncounted \
+	C8137B7FAFC2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,10_100_mb_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT apu_fpu_sp xilinxd 2050.01 permanent uncounted 846D98A37699 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,apu_fpu_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT aurora xilinxd 2050.01 permanent uncounted 3B690634C2DE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,aurora,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT aurora_64b66b xilinxd 2050.01 permanent uncounted \
+	E1501A0FD676 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,aurora_64b66b,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT aurora_8b10b xilinxd 2050.01 permanent uncounted \
+	615410402A71 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,aurora_8b10b,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT displayport xilinxd 2050.01 permanent uncounted \
+	EB5D49DA4E6A \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,displayport,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT dlcr_3gpp xilinxd 2050.01 permanent uncounted 485FED29878D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,dlcr_3gpp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT dvb_s2_fec_encoder xilinxd 2050.01 permanent uncounted \
+	36DDC4A2EEFC \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,dvb_s2_fec_encoder,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT eth_avb_endpoint xilinxd 2050.01 permanent uncounted \
+	B66D424B7B86 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,eth_avb_endpoint,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT ethernet_statistics xilinxd 2050.01 permanent uncounted \
+	7248D621774C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,ethernet_statistics,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT gig_eth_pcs_pma xilinxd 2050.01 permanent uncounted \
+	201D91EE0749 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,gig_eth_pcs_pma,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT ldpc_802_16_enc xilinxd 2050.01 permanent uncounted \
+	ED107F59218D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,ldpc_802_16_enc,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT most_nic xilinxd 2050.01 permanent uncounted 6BC6EF825176 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,most_nic,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_ethernet xilinxd 2050.01 permanent uncounted \
+	AA0E00620659 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_ethernet,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_ethernet xilinxd 2050.01 permanent uncounted \
+	AA0E00620659 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_ethernet,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_ethernetlite xilinxd 2050.01 permanent uncounted \
+	7A2A9009D9FA \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_ethernetlite,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_iic xilinxd 2050.01 permanent uncounted A0A6225A1C96 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_iic,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_pci xilinxd 2050.01 permanent uncounted 62026C3906CB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_pci xilinxd 2050.01 permanent uncounted 62026C3906CB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_pci xilinxd 2050.01 permanent uncounted 62026C3906CB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_pci xilinxd 2050.01 permanent uncounted 62026C3906CB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_uart16550 xilinxd 2050.01 permanent uncounted \
+	CC87860FB0B2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_uart16550,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT opb_usb2_device xilinxd 2050.01 permanent uncounted \
+	19CC35D1FCE3 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,opb_usb2_device,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci_express xilinxd 2050.01 permanent uncounted \
+	9435CF751C0D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci_express,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32 xilinxd 2050.01 permanent uncounted CE480C7DC934 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32 xilinxd 2050.01 permanent uncounted CE480C7DC934 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32 xilinxd 2050.01 permanent uncounted CE480C7DC934 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_sp xilinxd 2050.01 permanent uncounted EC936FE204F2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_sp xilinxd 2050.01 permanent uncounted EC936FE204F2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_sp xilinxd 2050.01 permanent uncounted EC936FE204F2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_sp xilinxd 2050.01 permanent uncounted EC936FE204F2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_spng xilinxd 2050.01 permanent uncounted 6AA3CEAC196D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_spng,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_spng xilinxd 2050.01 permanent uncounted 6AA3CEAC196D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_spng,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_spng xilinxd 2050.01 permanent uncounted 6AA3CEAC196D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_spng,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_spng xilinxd 2050.01 permanent uncounted 6AA3CEAC196D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_spng,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_vx xilinxd 2050.01 permanent uncounted BE60DA15B9DE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_vx xilinxd 2050.01 permanent uncounted BE60DA15B9DE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci32_vx xilinxd 2050.01 permanent uncounted BE60DA15B9DE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci32_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64 xilinxd 2050.01 permanent uncounted 8BB1DD74A764 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64 xilinxd 2050.01 permanent uncounted 8BB1DD74A764 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64 xilinxd 2050.01 permanent uncounted 8BB1DD74A764 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_sp xilinxd 2050.01 permanent uncounted 7FF316EFD5F8 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_sp xilinxd 2050.01 permanent uncounted 7FF316EFD5F8 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_sp xilinxd 2050.01 permanent uncounted 7FF316EFD5F8 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_sp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_vx xilinxd 2050.01 permanent uncounted 2A67C986F60C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_vx xilinxd 2050.01 permanent uncounted 2A67C986F60C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pci64_vx xilinxd 2050.01 permanent uncounted 2A67C986F60C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pci64_vx,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcie_blk_plus xilinxd 2050.01 permanent uncounted \
+	04BA8EEFEA5D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcie_blk_plus,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcie_pipe xilinxd 2050.01 permanent uncounted AB362B3A578C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcie_pipe,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcie_pipe xilinxd 2050.01 permanent uncounted AB362B3A578C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcie_pipe,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcix xilinxd 2050.01 permanent uncounted 3C01DFA74B98 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcix,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcix xilinxd 2050.01 permanent uncounted 3C01DFA74B98 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcix,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcix64 xilinxd 2050.01 permanent uncounted 504A43A216B7 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcix64,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pcix64 xilinxd 2050.01 permanent uncounted 504A43A216B7 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pcix64,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pl4 xilinxd 2050.01 permanent uncounted 50D4B87E8AE1 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pl4,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT pl4_lite xilinxd 2050.01 permanent uncounted 5D83D8346EFC \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,pl4_lite,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_ethernet xilinxd 2050.01 permanent uncounted \
+	5696143A2A88 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_ethernet,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_ethernet xilinxd 2050.01 permanent uncounted \
+	5696143A2A88 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_ethernet,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_pci xilinxd 2050.01 permanent uncounted 58104B26D773 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_pci xilinxd 2050.01 permanent uncounted 58104B26D773 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_pci xilinxd 2050.01 permanent uncounted 58104B26D773 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_pci xilinxd 2050.01 permanent uncounted 58104B26D773 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_temac xilinxd 2050.01 permanent uncounted 9C74210E01C8 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_temac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_temac xilinxd 2050.01 permanent uncounted 9C74210E01C8 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_temac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plb_uart16550 xilinxd 2050.01 permanent uncounted \
+	CF9ABAA16EAB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plb_uart16550,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plbv46_pci xilinxd 2050.01 permanent uncounted DE7746A3D558 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plbv46_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plbv46_pci xilinxd 2050.01 permanent uncounted DE7746A3D558 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plbv46_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plbv46_pci xilinxd 2050.01 permanent uncounted DE7746A3D558 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plbv46_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT plbv46_pci xilinxd 2050.01 permanent uncounted DE7746A3D558 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,plbv46_pci,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT rach_3gpp xilinxd 2050.01 permanent uncounted 19C69C4F23F7 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,rach_3gpp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT rio_log_io xilinxd 2050.01 permanent uncounted DFF2A0E963E7 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,rio_log_io,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT rs_decoder xilinxd 2050.01 permanent uncounted 449BCA601B1C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,rs_decoder,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT rs_encoder xilinxd 2050.01 permanent uncounted 760FA298084D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,rs_encoder,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT rxaui xilinxd 2050.01 permanent uncounted BDD824E64CCB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,rxaui,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT s6_pcie xilinxd 2050.01 permanent uncounted 55447079DEE6 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,s6_pcie,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT searcher_3gpp xilinxd 2050.01 permanent uncounted \
+	324542B384A0 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,searcher_3gpp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT sid xilinxd 2050.01 permanent uncounted F381ABCB5A92 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,sid,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT soft_temac_wrap xilinxd 2050.01 permanent uncounted \
+	23C91E02F92E \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,soft_temac_wrap,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT soft_temac_wrap xilinxd 2050.01 permanent uncounted \
+	23C91E02F92E \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,soft_temac_wrap,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT soft_temac_wrap xilinxd 2050.01 permanent uncounted \
+	23C91E02F92E \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,soft_temac_wrap,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT spi3_link xilinxd 2050.01 permanent uncounted 620C64354CBF \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,spi3_link,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT srio_phy xilinxd 2050.01 permanent uncounted E7FA56FCCE0D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,srio_phy,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_dec_802_16e xilinxd 2050.01 permanent uncounted \
+	E83D87F4C7AE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_dec_802_16e,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_decoder xilinxd 2050.01 permanent uncounted \
+	9966D7896955 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_decoder,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_decoder_3gpp xilinxd 2050.01 permanent uncounted \
+	3D3AE9E5ECEE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_decoder_3gpp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_enc_802_16e xilinxd 2050.01 permanent uncounted \
+	B95B75262575 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_enc_802_16e,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_encoder xilinxd 2050.01 permanent uncounted \
+	AAD4EEFD6E74 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_encoder,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_encoder_3gpp xilinxd 2050.01 permanent uncounted \
+	482482810870 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_encoder_3gpp,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_encoder_3gpp2 xilinxd 2050.01 permanent uncounted \
+	B90E4F20003C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_encoder_3gpp2,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tcc_encoder_3gpplte xilinxd 2050.01 permanent uncounted \
+	6D872B6470DB \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tcc_encoder_3gpplte,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT ten_gig_eth_mac xilinxd 2050.01 permanent uncounted \
+	60772CBC2130 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,ten_gig_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT ten_gig_eth_pcs_pma xilinxd 2050.01 permanent uncounted \
+	31F5F21D4586 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tri_mode_eth_mac xilinxd 2050.01 permanent uncounted \
+	1DAD08254CF9 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tri_mode_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT tri_mode_eth_mac xilinxd 2050.01 permanent uncounted \
+	1DAD08254CF9 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,tri_mode_eth_mac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT usb2_device xilinxd 2050.01 permanent uncounted \
+	97FCB2BB896D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,usb2_device,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ccm xilinxd 2050.01 permanent uncounted B6EF303B9F66 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ccm,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ccm xilinxd 2050.01 permanent uncounted B6EF303B9F66 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ccm,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_cfa xilinxd 2050.01 permanent uncounted 6DA623CCDD4C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_cfa,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_cfa xilinxd 2050.01 permanent uncounted 6DA623CCDD4C \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_cfa,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_enhance xilinxd 2050.01 permanent uncounted BCA331A81B96 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_enhance,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_gamma xilinxd 2050.01 permanent uncounted DD01E2891E2A \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_gamma,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_gamma xilinxd 2050.01 permanent uncounted DD01E2891E2A \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_gamma,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ic xilinxd 2050.01 permanent uncounted 88AF48290B68 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ic,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ipipe xilinxd 2050.01 permanent uncounted 293D046EAAC9 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ipipe,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_manr xilinxd 2050.01 permanent uncounted B5E1DF28EB52 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_manr,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_noise xilinxd 2050.01 permanent uncounted BF3C59C700BD \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_noise,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_osd xilinxd 2050.01 permanent uncounted AD4496F136C4 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_osd,ip,permanent,_0_0_0_129 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_rgb2ycrcb xilinxd 2050.01 permanent uncounted \
+	DB5FAC0413BE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_rgb2ycrcb,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_rgb2ycrcd xilinxd 2050.01 permanent uncounted \
+	CB95463A93E4 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_rgb2ycrcd,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_scaler xilinxd 2050.01 permanent uncounted E40772141F17 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_scaler,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_spc xilinxd 2050.01 permanent uncounted E1B67B300D59 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_spc,ip,permanent,_0_0_0_023 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_spc xilinxd 2050.01 permanent uncounted E2981566F178 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_spc,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_stats xilinxd 2050.01 permanent uncounted 55825848E42D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_stats,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_timebase xilinxd 2050.01 permanent uncounted 9CF00DD11D19 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_timebase,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_vdma xilinxd 2050.01 permanent uncounted 3F8D90CA395F \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_vdma,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ycrcb2rgb xilinxd 2050.01 permanent uncounted \
+	B1708DE2577B \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ycrcb2rgb,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v_ycrcb2rgb xilinxd 2050.01 permanent uncounted \
+	B1708DE2577B \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v_ycrcb2rgb,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v4_emac xilinxd 2050.01 permanent uncounted EBD7F4DF5D39 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v4_emac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v5_emac xilinxd 2050.01 permanent uncounted 0D2E14CF5A2E \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v5_emac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v6_emac xilinxd 2050.01 permanent uncounted 256CCC3F1343 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v6_emac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT v6_pcie xilinxd 2050.01 permanent uncounted AC4EA5564FD2 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,v6_pcie,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT viterbi xilinxd 2050.01 permanent uncounted E5DCC80C3CCE \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,viterbi,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xaui xilinxd 2050.01 permanent uncounted F279C00F4F72 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xaui,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_ethernetlite xilinxd 2050.01 permanent uncounted \
+	A7163A6D9244 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_ethernetlite,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_iic xilinxd 2050.01 permanent uncounted BA87B883E747 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_iic,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_ll_temac xilinxd 2050.01 permanent uncounted \
+	B9E1C7F9433D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_ll_temac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_ll_temac xilinxd 2050.01 permanent uncounted \
+	B9E1C7F9433D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_ll_temac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_ll_temac xilinxd 2050.01 permanent uncounted \
+	B9E1C7F9433D \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_ll_temac,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_most_nic xilinxd 2050.01 permanent uncounted \
+	22E7E6AD8278 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_most_nic,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_uart16550 xilinxd 2050.01 permanent uncounted \
+	0080F60BB09F \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_uart16550,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_usb_host xilinxd 2050.01 permanent uncounted \
+	E4EEB75E6ACA \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_usb_host,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+INCREMENT xps_usb2_device xilinxd 2050.01 permanent uncounted \
+	86B5BE135C79 \
+	VENDOR_STRING=License_Type:Bought;hello@happy.friends,xps_usb2_device,ip,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+
+PACKAGE System_Edition xilinxd 2050.01 A5DEA7A09AF7 COMPONENTS="SDK \
+	ChipScopePro_SIOTK ChipscopePro ISE ISIM PlanAhead SysGen XPS" \
+	OPTIONS=SUITE
+INCREMENT System_Edition xilinxd 2050.01 permanent uncounted \
+	19495981A316 \
+	VENDOR_STRING=hello@happy.friends,System_Edition,software,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+PACKAGE Web_Package xilinxd 2050.01 AA02344376F0 \
+	COMPONENTS="PlanAhead WebPACK" OPTIONS=SUITE
+INCREMENT Web_Package xilinxd 2050.01 permanent uncounted \
+	BB173C4A8359 \
+	VENDOR_STRING=hello@happy.friends,Web_Package,software,permanent,_0_0_0 \
+	HOSTID=ANY ISSUER=Spotted_Cuscus/RCL TS_OK
+
+
+# 2037年之前的任何Vivado版本（包括HLS、AccelDSP、System Generator、软硬CPU、SOC、嵌入式Linux、重配置等等功能）都是永久使用。使用本license文件时要改名，文件名不能有汉字和空格。

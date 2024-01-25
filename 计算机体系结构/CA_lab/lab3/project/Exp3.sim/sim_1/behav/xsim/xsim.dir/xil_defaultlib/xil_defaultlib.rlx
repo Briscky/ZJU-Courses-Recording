@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Briscky03/CA_lab/lab03/Exp3.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Briscky03/CA_lab/lab03/code/addr_define.vh,1630841752,verilog,,,,,,,,,,,,
+D:/Briscky03/CA_lab/lab03/code/cache.v,1699182685,verilog,,D:/Briscky03/CA_lab/lab03/code/sim/cache_sim.v,D:/Briscky03/CA_lab/lab03/code/addr_define.vh,cache,,,../../../../code,,,,,
+D:/Briscky03/CA_lab/lab03/code/sim/cache_sim.v,1628584874,verilog,,,,cache_sim,,,../../../../code,,,,,

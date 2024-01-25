@@ -1,0 +1,26 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Briscky03/CA_lab/lab05/Exp5.sim/sim_1/behav/xsim/glbl.v,1529022454,verilog,,,,glbl,,,,,,,,
+D:/Briscky03/CA_lab/lab05/Exp5.srcs/sources_1/ip/divider/sim/divider.vhd,1636183932,vhdl,,,,divider,,,,,,,,
+D:/Briscky03/CA_lab/lab05/Exp5.srcs/sources_1/ip/multiplier/sim/multiplier.vhd,1636183828,vhdl,,,,multiplier,,,,,,,,
+D:/Briscky03/CA_lab/lab05/code/auxillary/debug_clk.v,1628262876,verilog,,D:/Briscky03/CA_lab/lab05/code/sim/core_sim.v,,debug_clk,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/common/MUX2T1_32.v,1630067388,verilog,,D:/Briscky03/CA_lab/lab05/code/common/MUX8T1_32.v,,MUX2T1_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/common/MUX8T1_32.v,1629277154,verilog,,D:/Briscky03/CA_lab/lab05/code/core/RAM_B.v,,MUX8T1_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/common/REG32.v,1630067400,verilog,,D:/Briscky03/CA_lab/lab05/code/core/REG_ID.v,,REG32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/common/add_32.v,1630067406,verilog,,D:/Briscky03/CA_lab/lab05/code/common/cmp_32.v,,add_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/common/cmp_32.v,1628609816,verilog,,D:/Briscky03/CA_lab/lab05/code/auxillary/debug_clk.v,,cmp_32,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/CtrlUnit.v,1632032082,verilog,,D:/Briscky03/CA_lab/lab05/code/core/FU_ALU.v,,CtrlUnit,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/FU_ALU.v,1700879007,verilog,,D:/Briscky03/CA_lab/lab05/code/core/FU_div.v,,FU_ALU,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/FU_div.v,1701333596,verilog,,D:/Briscky03/CA_lab/lab05/code/core/FU_jump.v,,FU_div,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/FU_jump.v,1701178189,verilog,,D:/Briscky03/CA_lab/lab05/code/core/FU_mem.v,,FU_jump,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/FU_mem.v,1700881381,verilog,,D:/Briscky03/CA_lab/lab05/code/core/FU_mul.v,,FU_mem,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/FU_mul.v,1700881362,verilog,,D:/Briscky03/CA_lab/lab05/code/core/ImmGen.v,,FU_mul,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/ImmGen.v,1631693464,verilog,,D:/Briscky03/CA_lab/lab05/code/common/MUX2T1_32.v,,ImmGen,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/RAM_B.v,1629983726,verilog,,D:/Briscky03/CA_lab/lab05/code/common/REG32.v,,RAM_B,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/REG_ID.v,1632027242,verilog,,D:/Briscky03/CA_lab/lab05/code/core/ROM_D.v,,REG_ID,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/ROM_D.v,1629983720,verilog,,D:/Briscky03/CA_lab/lab05/code/core/RV32core.v,,ROM_D,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/RV32core.v,1701335291,verilog,,D:/Briscky03/CA_lab/lab05/code/core/Regs.v,,RV32core,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/core/Regs.v,1629993972,verilog,,D:/Briscky03/CA_lab/lab05/code/common/add_32.v,,Regs,,,../../../../code/auxillary,,,,,
+D:/Briscky03/CA_lab/lab05/code/sim/core_sim.v,1629997904,verilog,,,,core_sim,,,../../../../code/auxillary,,,,,

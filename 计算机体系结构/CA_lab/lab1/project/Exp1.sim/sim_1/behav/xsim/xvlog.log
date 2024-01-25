@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/auxillary/CPUTEST.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPUTEST
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CtrlUnit
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:58]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:59]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:60]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:61]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:62]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:63]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:65]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:66]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:67]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:68]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:69]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:71]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:72]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:73]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:75]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:76]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:78]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:79]
+ERROR: [VRFC 10-4982] syntax error near ';' [C:/Users/haozh/Desktop/ca21/lab/Code4Stu/Exp1/code/core/CtrlUnit.v:88]
+INFO: [#UNDEF] Sorry, too many errors..
