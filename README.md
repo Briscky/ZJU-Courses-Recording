@@ -38,6 +38,7 @@
 + [宏观经济学（甲）](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%88%E7%94%B2%EF%BC%89)
 + [房地产金融与经济](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%87%91%E8%9E%8D%E4%B8%8E%E7%BB%8F%E6%B5%8E)
 + [经济法理论与实务](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E7%BB%8F%E6%B5%8E%E6%B3%95%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E5%8A%A1)
++ [软件工程](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 ## 参考仓库
 https://github.com/QSCTech/zju-icicles
 https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes
