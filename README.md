@@ -40,12 +40,12 @@
 + [经济法理论与实务](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E7%BB%8F%E6%B5%8E%E6%B3%95%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E5%8A%A1)
 + [软件工程](https://github.com/Briscky/ZJU-Courses-Recording/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 ## 参考仓库
-https://github.com/QSCTech/zju-icicles
-https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes
-https://github.com/YingChengJun/CourseMaterialOfSE
-https://github.com/Zhang-Each/CourseNoteOfZJUSE
-https://github.com/zyxNova/ZJU-CKCMix-CS-Course-Material
-https://github.com/LBruyne/ZJU-SE-CourseMaterial
-https://github.com/Zahrinas/ZJU_CS_projects/tree/main
-https://github.com/2811668688/ZJU-CS/tree/main
+https://github.com/QSCTech/zju-icicles  
+https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes  
+https://github.com/YingChengJun/CourseMaterialOfSE  
+https://github.com/Zhang-Each/CourseNoteOfZJUSE  
+https://github.com/zyxNova/ZJU-CKCMix-CS-Course-Material  
+https://github.com/LBruyne/ZJU-SE-CourseMaterial  
+https://github.com/Zahrinas/ZJU_CS_projects/tree/main  
+https://github.com/2811668688/ZJU-CS/tree/main  
 https://github.com/yile-liu
